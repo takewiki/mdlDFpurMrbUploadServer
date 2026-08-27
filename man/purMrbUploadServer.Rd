@@ -2,7 +2,7 @@
 % Please edit documentation in R/purMrb.R
 \name{purMrbUploadServer}
 \alias{purMrbUploadServer}
-\title{处理逻辑}
+\title{处理逻辑（带进度条）}
 \usage{
 purMrbUploadServer(input, output, session, dms_token)
 }
@@ -19,7 +19,7 @@ purMrbUploadServer(input, output, session, dms_token)
 返回值
 }
 \description{
-处理逻辑
+处理逻辑（带进度条）
 }
 \examples{
 purMrbUploadServer()
